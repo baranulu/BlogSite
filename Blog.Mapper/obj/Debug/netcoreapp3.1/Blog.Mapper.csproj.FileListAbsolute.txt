@@ -1,0 +1,14 @@
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\bin\Debug\netcoreapp3.1\Blog.Mapper.deps.json
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\bin\Debug\netcoreapp3.1\Blog.Mapper.dll
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\bin\Debug\netcoreapp3.1\Blog.Mapper.pdb
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\bin\Debug\netcoreapp3.1\Blog.Business.dll
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\bin\Debug\netcoreapp3.1\Blog.Entities.dll
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\bin\Debug\netcoreapp3.1\Blog.Business.pdb
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\bin\Debug\netcoreapp3.1\Blog.Entities.pdb
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\obj\Debug\netcoreapp3.1\Blog.Mapper.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\obj\Debug\netcoreapp3.1\Blog.Mapper.AssemblyInfoInputs.cache
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\obj\Debug\netcoreapp3.1\Blog.Mapper.AssemblyInfo.cs
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\obj\Debug\netcoreapp3.1\Blog.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\obj\Debug\netcoreapp3.1\Blog.Mapper.csproj.CopyComplete
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\obj\Debug\netcoreapp3.1\Blog.Mapper.dll
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Mapper\obj\Debug\netcoreapp3.1\Blog.Mapper.pdb

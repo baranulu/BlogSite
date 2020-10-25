@@ -1,0 +1,15 @@
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.deps.json
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.runtimeconfig.json
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.runtimeconfig.dev.json
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.dll
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.pdb
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Entities.dll
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Entities.pdb
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.AssemblyInfoInputs.cache
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.AssemblyInfo.cs
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csproj.CopyComplete
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.dll
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.pdb
+C:\Users\Msi\Desktop\22) Proje\Blog\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.genruntimeconfig.cache

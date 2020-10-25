@@ -1,0 +1,75 @@
+﻿
+@model IEnumerable<CategoryIndexVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container-fluid mt-7">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+
+            <p>
+                <a class="btn btn-primary  " asp-action="create">
+                    <i class="fas fa-pen"></i> &nbsp; Yeni
+                </a>
+            </p>
+
+            <h6 class="m-0 font-weight-bold text-primary">Post Listesi</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover" id="dataTable" width="100%">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CategoryName)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Description)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CategoryName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Description)
+                                </td>
+                                <td>
+                                    <!-- Eğer icon-name alanına ekleme yapmazsanız, default olarak ilgili action'a atanmış değer gelir -->
+                                    <a asp-action="details" type="details" asp-route-id="@item.Id"></a>
+                                    <a asp-action="edit"    type="edit"    asp-route-id="@item.Id"></a>
+                                    <a asp-action="delete"  type="delete"  asp-route-id="@item.Id"></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section css{
+    <link href="~/admin/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+}
+
+@section js{
+    <!-- Page level plugins -->
+    <script src="~/admin/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/admin/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <script>$(document).ready(function () {
+            $('#dataTable').dataTable({
+                "scrollX": false
+            });
+        });</script>
+}
+
+

@@ -1,0 +1,9 @@
+﻿@ViewData["Title"]= "Resim yükleme ekranı";
+
+
+<form action="Areas/Admin/PostImages/Upload" class="dropzone" enctype="multipart/form-data">
+    <div class="fallback">
+        <input type="hidden" name="id" value="@Model" />
+        <input name="file" type="file" multiple />
+    </div>
+</form>
